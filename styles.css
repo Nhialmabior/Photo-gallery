@@ -85,6 +85,12 @@ main {
     padding: 10px;
     border-radius: 5px;
 }
+.container {
+    padding: 15px;
+    margin: 0 15px;
+    width: auto;
+    justify-content: center;
+}
 img {
     height: 250px;
     float: left;
